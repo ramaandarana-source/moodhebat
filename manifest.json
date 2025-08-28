@@ -1,0 +1,21 @@
+{
+  "short_name": "RYAD Tools",
+  "name": "RYAD TOOLS",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "description": "AI tools for video and image generation."
+}
